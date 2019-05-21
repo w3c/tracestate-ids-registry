@@ -1,38 +1,93 @@
-<!doctype html>
-<html lang="en">
+<!DOCTYPE html>
+<html>
   <head>
-    <meta charset="utf-8">
-    <title>Spec proposal</title>
-    <script src="https://www.w3.org/Tools/respec/respec-w3c" class="remove"></script>
-    <script class='remove'>
-      // See https://github.com/w3c/respec/wiki/ for how to configure ReSpec
+    <meta content="text/html; charset=utf-8" http-equiv="content-type">
+    <title>Trace State Ids Registry</title>
+    <script src="https://www.w3.org/Tools/respec/respec-w3c-common" async="" class="remove"></script>
+    <script class="remove">
       var respecConfig = {
-        specStatus: "CG-DRAFT",
-        shortName: "trace-state-ids-registry",
-        editors: [{
-          name: "Philippe Le Hegaret"
-        }]
+          // specification status (e.g. WD, LCWD, WG-NOTE, etc.). If in doubt use ED.
+          specStatus:           "ED",
+          // specStatus:           "WG-NOTE",
+
+          // the specification's short name, as in http://www.w3.org/TR/short-name/
+          shortName:            "trace-state-ids-registry",
+
+          format: "markdown",
+
+          noRecTrack: true,
+          // if there a publicly available Editor's Draft, this is the link
+          edDraftURI:  "https://w3c.github.io/trace-state-ids-registry/",
+
+          // editors, add as many as you like
+          // only "name" is required
+          editors:  [
+              {
+                 name:    "TBD"
+//              ,  company: "W3C"
+//              ,  w3cid:   "@@"
+              }
+          ],
+
+          // name of the WG
+          wg: "Distributed Tracing Working Group",
+          wgPublicList: "public-trace-context",
+          wgURI: "https://www.w3.org/2018/distributed-tracing/",
+
+          wgPatentURI:  "https://www.w3.org/2004/01/pp-impl/108594/status",
+
+          github: {
+            repoURL: "https://github.com/w3c/trace-state-ids-registry/",
+            branch: "master",
+          },
+          otherLinks: [{
+            key: 'Discussions',
+            data: [{
+              value: 'We are on Slack.',
+              href: 'https://w3cdistributedtracing.slack.com/'
+            }]
+          }]
       };
     </script>
+    <style>
+      /*
+         This is a copy of "simple" class of a table from ReSpec
+         https://github.com/w3c/respec/blob/4e9f304f522fe03c21e36c52f732a2abf2908c5c/assets/respec2.css#L80-L108
+       */
+      table {
+        border-spacing: 0;
+        border-collapse: collapse;
+        border-bottom: 3px solid #005a9c;
+      }
+
+      table th {
+        background: #005a9c;
+        color: #fff;
+        padding: 3px 5px;
+        text-align: left;
+      }
+
+      table th[scope="row"] {
+        background: inherit;
+        color: inherit;
+        border-top: 1px solid #ddd;
+      }
+
+      table td {
+        padding: 3px 10px;
+        border-top: 1px solid #ddd;
+      }
+
+      table tr:nth-child(even) {
+        background: #f0f6ff;
+      }
+    </style>
   </head>
   <body>
-    <section id="abstract">
-      <p>
-        This specification does neat stuff.
-      </p>
-    </section>
-    <section id="sotd">
-      <p>
-        This is an unofficial proposal.
-      </p>
-    </section>
-
-    <section id="introduction">
-      <h2>Introduction</h2>
-      <p>
-        See <a href="https://github.com/w3c/respec/wiki/User's-Guide">ReSpec's user guide</a>
-        for how toget started!
-      </p>
-    </section>
+    <section id="abstract" data-include="content/abstract.md" data-include-format='markdown'></section>
+    <section id="sotd" data-include="content/sotd.md" data-include-format='markdown'></section>
+    <section class='informative' data-include="content/purpose.md" data-include-format='markdown'></section>
+    <section data-include="content/registration.md" data-include-format='markdown'></section>
+    <section data-include="content/registry.md" data-include-format='markdown'></section>
   </body>
 </html>

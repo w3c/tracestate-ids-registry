@@ -1,0 +1,1 @@
+This is a registry and is expected to be updated as described in <a href='#registration-entry-requirements-and-update-process'></a>.

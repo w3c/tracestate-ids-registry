@@ -1,5 +1,15 @@
 
-# Specification 'trace-state-ids-registry'
+# Trace State Ids Registry
 
-This is the repository for trace-state-ids-registry. You're welcome to contribute! Let's make the Web rock our socks
-off!
+[Trace Context](https://w3c.github.io/trace-context/) defines the `tracestate` header.
+
+See [Trace state Ids Registry](https://w3c.github.io/trace-state-ids-registry/).
+
+## Team Communication
+
+See [communication](https://github.com/w3c/distributed-tracing-wg#team-communication).
+We appreciate feedback and contributions.
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md).
