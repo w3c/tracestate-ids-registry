@@ -14,9 +14,11 @@ assignees: ''
 
 # Registration
 
-- Company:
+- Company or project:
 - Responsible individual or role:
 - E-Mail:
 
 **Id to be requested:**
 **Optional: Link to a publicly available specification.**
+
+> Understand that reserved IDs are a recommendation. However, it cannot be guaranteed that another implementation is not using a reserved id. Ensure to always validate the contents of a tracestate entry.
