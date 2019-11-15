@@ -8,7 +8,7 @@
 3. Each entry must include contact information of the requestor.
 
 An update to this registry is an addition, change or deletion of an identifier. Any
-person can request an update to this registry by [pull requests](https://github.com/w3c/trace-state-ids-registry/pulls) to the
+person can request an update to this registry by [creating an issue](https://github.com/w3c/trace-state-ids-registry/issues/new/choose) on the
 [trace-state-ids-registry repository](https://github.com/w3c/trace-state-ids-registry). The
 [Distributed Tracing  Working
 Group](https://www.w3.org/2018/distributed-tracing/) will place it on an
