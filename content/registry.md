@@ -6,4 +6,4 @@ This section is the registry of identifiers used by the `tracestate`, which is d
 | Identifier                             | Implemetation or Company URL                                                                          | Requestor Contact                                   |
 | -------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------|
 | `in`                          | `n/a`                                                                                    | [Instana](https://www.instana.com/) |
-
+| `nr`                          | `n/a`                                                                                    | [New Relic](https://newrelic.com/) |
