@@ -7,4 +7,4 @@ This section is the registry of identifiers used by the `tracestate`, which is d
 | -------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | `in`                                   | [Instana](https://www.instana.com/)                                                                   |
 | `es`                                   | [Elastic](https://www.elastic.co/)                                                                    |
-
+| `dt`                                   | [Dynatrace](https://www.dynatrace.com/)                                                               |
