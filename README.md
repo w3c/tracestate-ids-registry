@@ -1,9 +1,9 @@
 
-# Trace State Ids Registry
+# Tracestate Ids Registry
 
 [Trace Context](https://w3c.github.io/trace-context/) defines the `tracestate` header.
 
-See [Trace state Ids Registry](https://w3c.github.io/trace-state-ids-registry/).
+See [Tracestate Ids Registry](https://w3c.github.io/trace-state-ids-registry/).
 
 ## Team Communication
 
