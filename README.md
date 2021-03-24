@@ -3,7 +3,7 @@
 
 [Trace Context](https://w3c.github.io/trace-context/) defines the `tracestate` header.
 
-See [Tracestate Ids Registry](https://w3c.github.io/trace-state-ids-registry/).
+See [Tracestate Ids Registry](https://w3c.github.io/tracestate-ids-registry/).
 
 ## Team Communication
 
