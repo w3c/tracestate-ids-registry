@@ -9,3 +9,4 @@ This section is the registry of identifiers used by the `tracestate`, which is d
 | `es`                                   | [Elastic](https://www.elastic.co/)                                                                    |
 | `dt`                                   | [Dynatrace](https://www.dynatrace.com/)                                                               |
 | `nr`                                   | [New Relic](https://newrelic.com/)                                                                    |
+| `ls`                                   | [Lightstep](https://lightstep.com/)                                                                   |
