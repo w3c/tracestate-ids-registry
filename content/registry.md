@@ -3,7 +3,7 @@
 This section is the registry of identifiers used by the `tracestate`, which is defined at
 <https://www.w3.org/TR/trace-context/>.
 
-| Identifier                             | Implemetation or Company URL                                                                          |
+| Identifier                             | Implementation or Company URL                                                                         |
 | -------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | `in`                                   | [Instana](https://www.instana.com/)                                                                   |
 | `es`                                   | [Elastic](https://www.elastic.co/)                                                                    |
@@ -12,3 +12,4 @@ This section is the registry of identifiers used by the `tracestate`, which is d
 | `sw`                                   | [SolarWinds](https://solarwinds.com/)                                                                 |
 | `ls`                                   | [Lightstep](https://lightstep.com/)                                                                   |
 | `ot`                                   | [OpenTelemetry](https://opentelemetry.io/)                                                            |
+| `ms`                                   | [Microsoft](https://www.microsoft.com/)                                                               |
