@@ -16,3 +16,4 @@ This section is the registry of identifiers used by the `tracestate`, which is d
 | `ms`                                   | [Microsoft](https://www.microsoft.com/)                                                               |
 | `sn`                                   | [ServiceNow](https://servicenow.com/)                                                                 |
 | `sb`                                   | [SmartBear](https://www.smartbear.com/)                                                               |
+| `dd`                                   | [Datadog](https://www.datadoghq.com/)                                                                 |
