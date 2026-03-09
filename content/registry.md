@@ -8,6 +8,7 @@ This section is the registry of identifiers used by the `tracestate`, which is d
 | `in`                                   | [Instana](https://www.instana.com/)                                                                   |
 | `es`                                   | [Elastic](https://www.elastic.co/)                                                                    |
 | `dt`                                   | [Dynatrace](https://www.dynatrace.com/)                                                               |
+| `dtr`                                  | [Dynatrace](https://www.dynatrace.com/)                                                               |
 | `nr`                                   | [New Relic](https://newrelic.com/)                                                                    |
 | `sw`                                   | [SolarWinds](https://solarwinds.com/)                                                                 |
 | `ls`                                   | [Lightstep](https://lightstep.com/)                                                                   |
